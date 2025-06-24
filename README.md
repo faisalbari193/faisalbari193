@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Faisal+Bari;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
-<img src="(https://github.com/faisalbari193/faisalbari193/blob/main/Navy%20Blue%20Modern%20Beginner%20Coding%20Bootcamp%20Facebook%20Cover%201.jpg)" style="width:100%; max-width:600px;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-image.png" style="width:100%; max-width:600px;" />
+</p>
 
 ## 💫 About Me:
 - 🔭 I'm currently working on **MERN-Stack Web Development**
