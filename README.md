@@ -36,7 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalbari193&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faisalbari193&theme=tokyonight" alt="Streak Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalbari193&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
