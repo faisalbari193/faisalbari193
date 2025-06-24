@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-bari-1b7713350/)
-[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.facebook.com/share/1AiLECmBGM/?mibextid=qi2Omg))
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.facebook.com/share/1AiLECmBGM/?mibextid=qi2Omg)
 
 ---
 
