@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-image.png" style="width:100%; max-width:600px;" />
+  <img src="(https://i.postimg.cc/8PFCZprV/Navy-Blue-Modern-Beginner-Coding-Bootcamp-Facebook-Cover-1.jpg)" style="width:100%; max-width:600px;" />
 </p>
 
 ## 💫 About Me:
