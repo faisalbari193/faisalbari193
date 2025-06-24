@@ -1,12 +1,11 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.Arshaddul+ Bari;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.Arshadul+Bari;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
-
+---
 <p align="center">
   <img src="https://i.postimg.cc/Qx5FXNNJ/Navy-Blue-Modern-Beginner-Coding-Bootcamp-Facebook-Cover.png" style="width:100%; max-width:600px;" />
 </p>
-
+---
 ## 💫 About Me:
 - 🔭 I'm currently working on **MERN-Stack Web Development**
 - 🌱 Learning new tools every day and improving my backend + frontend skills
