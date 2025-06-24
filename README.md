@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Faisal Bari</h1>
-<h3 align="center">A passionate Web Developer in the learning journey 🚀</h3>
+# 💫 About Me:
+I'm currently working on MERN-Stack Web Development
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faisal-bari-1b7713350/) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=faisalbari193&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faisalbari193&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalbari193&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=faisalbari193&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=faisalbari193&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=faisalbari193&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💡 About Me
-👨‍💻 I’m currently learning and building projects using HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
-🌱 I enjoy creating web applications and solving real-world problems with code
-🔭 I’ve built projects like Phero-tube, English Janala, Job Portal, and Law BD
-💬 Ask me about frontend, backend, or anything web-related
-📫 How to reach me: faisalbari193@gmail.com
-
----
-
-🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
-</p>
-
----
-
-📌 Featured Projects
-Here are some of the projects I've worked on:
-
-🔹 [Phero-tube](#) – A YouTube-style video gallery app
-🔹 [English Janala](#) – An English learning portal
-🔹 [Job Portal](#) – A job listing and recruitment site
-🔹 [Law BD](#) – A law-based information website
-
-(Add links above when your repos are public!)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 📊 GitHub Stats
 <p align="center">
