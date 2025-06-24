@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Faisal+Bari;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
-<img src="https://www.canva.com/design/DAGrSGPpswY/q_YU1t_jNdbt_5waET4p9g/edit?utm_content=DAGrSGPpswY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="width:100%; max-width:600px;" />
+<img src="[https://www.canva.com/design/DAGrSGPpswY/q_YU1t_jNdbt_5waET4p9g/edit?utm_content=DAGrSGPpswY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/faisalbari193/faisalbari193/blob/main/Navy%20Blue%20Modern%20Beginner%20Coding%20Bootcamp%20Facebook%20Cover%201.jpg)" style="width:100%; max-width:600px;" />
 
 ## 💫 About Me:
 - 🔭 I'm currently working on **MERN-Stack Web Development**
