@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.canva.com/design/DAGrSGPpswY/q_YU1t_jNdbt_5waET4p9g/edit?utm_content=DAGrSGPpswY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-    <img src="https://www.canva.com/design/DAGrSGPpswY/q_YU1t_jNdbt_5waET4p9g/view?utm_content=DAGrSGPpswY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent" alt="My Canva Design" style="width:100%; max-width:600px;" />
+    <img src="https://www.canva.com/design/DAGrSGPpswY/q_YU1t_jNdbt_5waET4p9g/edit?utm_content=DAGrSGPpswY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" style="width:100%; max-width:600px;" />
   </a>
 </p>
 
