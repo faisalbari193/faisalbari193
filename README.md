@@ -3,7 +3,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://i.postimg.cc/Qx5FXNNJ/Navy-Blue-Modern-Beginner-Coding-Bootcamp-Facebook-Cover.png" style="width:100%; max-width:600px;" />
+  <img src="https://i.postimg.cc/mDzhvsMX/Pink-and-Purple-Futuristic-Linkedin-Banner.jpg" style="width:100%; max-width:600px;" />
 </p>
 ---
 ## 💫 About Me:
