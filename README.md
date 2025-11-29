@@ -3,7 +3,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://i.postimg.cc/50Xq2sj5/IMG-20251118-235716.jpg" style="width:100%; max-width:600px;" />
+  <img src="https://i.postimg.cc/QdpjRDbQ/Pink-and-Purple-Futuristic-Linkedin-Banner.jpg" style="width:100%; max-width:600px;" />
 </p>
 ---
 ## 💫 About Me:
