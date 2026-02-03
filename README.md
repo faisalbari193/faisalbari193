@@ -1,6 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+</p> -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500"/>
 </p>
+
 
 <!-- Header Typing Effect -->
 <p align="center">
