@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Md.Arshadul+Bari;MERN+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.postimg.cc/QdpjRDbQ/Pink-and-Purple-Futuristic-Linkedin-Banner.jpg" style="width:100%; max-width:600px;" />
-</p>
+</p> -->
 ---
 ## 💫 About Me:
 - 🔭 I'm currently working on **MERN-Stack Web Development**
