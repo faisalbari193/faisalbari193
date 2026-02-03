@@ -8,9 +8,9 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Md.+Arshadul+Bari;Full-Stack+MERN+Developer;Open+Source+Enthusiast;Building+scalable+web+apps!">
-</p>
+</p> -->
 
 
 <!-- Header Typing Effect -->
