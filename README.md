@@ -70,16 +70,9 @@
     />
   </a>
 
-  <a
-    href="https://www.facebook.com/alexmercer478/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
-  </a>
+   <a href="https://www.facebook.com/alexmercer478/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
 </p>
 
 ---
