@@ -93,24 +93,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalbari193&theme=tokyonight&show_icons=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalbari193&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalbari193&theme=radical&no-frame=true&margin-w=8"/>
-</p>
-
----
-
 ## 💡 What I’m Building  
 
 🔹 Modern full-stack web applications  
