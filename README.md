@@ -54,11 +54,11 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/faisal-bari-1b7713350/">
+<a target='blank' href="https://www.linkedin.com/in/faisal-bari-1b7713350/](https://www.linkedin.com/in/md-arshadul-bari-1b7713350/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/share/1AiLECmBGM/?mibextid=qi2Omg">
+<a target='blank' href="https://www.facebook.com/share/1AiLECmBGM/?mibextid=qi2Omg](https://www.facebook.com/alexmercer478/">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 </p>
