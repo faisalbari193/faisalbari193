@@ -11,7 +11,12 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Md.+Arshadul+Bari;Full-Stack+MERN+Developer;Open+Source+Enthusiast;Building+scalable+web+apps!">
 </p> -->
+📈 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mdyeasinkhan4&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+---
 
 <!-- Header Typing Effect -->
 <p align="center">
@@ -54,13 +59,27 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-<a target='blank' href="https://www.linkedin.com/in/md-arshadul-bari-1b7713350/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a
+    href="https://www.linkedin.com/in/md-arshadul-bari-1b7713350/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<a target='blank' href="https://www.facebook.com/alexmercer478/">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+  <a
+    href="https://www.facebook.com/alexmercer478/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
 </p>
 
 ---
