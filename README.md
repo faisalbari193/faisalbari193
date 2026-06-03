@@ -113,11 +113,4 @@
 ⭐ **Feel free to check out my repositories and contribute!**
 
 ---
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=faisalbari193&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-<!-- Proudly created with ❤️ by Faisal Bari -->
+ Proudly created with ❤️ by Faisal Bari
